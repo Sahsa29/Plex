@@ -1,0 +1,264 @@
+body{
+	margin: 0 auto;
+}
+.purple{
+	background: url(../img/Layer2.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.head{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.logotup{
+	margin-left: 165px;
+	margin-top: 25px;
+	color: #fff;
+}
+.logotup p{
+	font-size: 12px;
+	font-family: 'Exo', sans-serif;
+}
+span{
+	color: red;
+	font-size: 17px;
+	margin-right: 10px;
+	font-family: 'Patua One', cursive;
+}
+.menu{
+	margin-top:15px; 
+	display: flex;
+	justify-content: center;
+	flex-wrap:
+}
+.menu ul{
+	display: flex;
+	list-style: none;
+}
+.menu li{
+	margin: 7px;
+}
+.menu a{
+	font-size: 12px;
+	font-family: 'Exo', sans-serif;
+	color: #fff;
+	text-decoration: none;
+}
+.menu input{
+	border: none;
+    margin: 10px;
+    outline: none;
+    padding: 10px 25px;
+    border-radius: 45px;
+}
+form button{
+    border: none;
+    border-radius: 50px;
+    position: relative;
+    top: 8px;
+    right: 60px;
+    background: #fff;
+    outline: none;
+}
+hr{
+	border: 0.5px solid #422d42;
+}
+.text{
+	display: flex;
+    text-align: right;
+    padding-top: 10%;
+    padding-bottom: 25%;
+}
+.text1{
+	margin-left: 165px;
+}
+.text1 h1{
+	font-family: 'Exo', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+.cop{
+	padding-bottom: 10px;
+}
+.cop button{
+	border: none;
+    padding: 12px 45px;
+    background: #8824cd;
+    color: #fff;
+    border-radius: 50px;
+    border-top:1px solid #fff;
+    position: relative;
+}
+.cop button:active{
+   top: 3px;
+ }
+ .text1 small{
+ 	color: #fff;
+ }
+ .marfa{
+ 	background: url(../img/Rectangle16.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .olya{
+ 	margin-left: 15%;
+ 	margin-right: 15%;
+
+ }
+ .mother{
+ 	padding-top: 40px;
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;
+ 	color: #fff;
+ }
+ .sister{
+ 	margin: 20px;
+ }
+ .father{
+ 	display: flex;
+ 	align-items: center;
+ 	color: #fff;
+ }
+ .grandmother{
+ 	margin: 20px;
+ }
+ .red{
+ 	text-align: center;
+ 	margin-top: 220px;
+ 	padding-bottom: 150px;
+ }
+ .red h3{
+ 	font-size: 28px;
+ 	font-family: 'Exo', sans-serif;
+ 	color: #fff;
+ 	margin-bottom: 0;
+ }
+ .red  p{
+ 	color: #fff;
+ 	font-size: 12px;
+ }
+ .bat button{
+ 	border: none;
+ 	background: #fff;
+ 	border-radius: 55px;
+ 	color: #b94256;
+ 	padding: 12px 55px;
+ 	position: relative;
+ }
+  .bat button:active{
+  	top: 3px;
+  }
+.grah{
+	display: flex;
+}
+.jothef{
+	margin: 50px;
+	padding-right: 30px;
+	font-family: 'Exo', sans-serif;
+}
+.grae{
+	background: url(../img/Layer12.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+.blue{
+	padding-top: 20%;
+	font-family: 'Exo', sans-serif;
+	text-align: center;
+	color: #848484;
+}
+.blue h3{
+	font-size: 25px;
+	margin:0;
+	color: #fff;
+}
+.xbet button{
+	background:#8824cd;
+	padding: 12px 45px;
+	border-radius: 50px;
+	border:none;
+	border-top: 1px solid #fff;
+	color: #fff;
+	position: relative;
+}
+.xbet button:active{
+	top: 3px;
+}
+.blue small{
+	font-size: 10px;
+	margin-top: 5px;
+	color: #D8D8D8;
+}
+.portfolio{
+	background: url(../img/Layer27.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    font-family: 'Exo', sans-serif;
+}
+.port{
+	margin-left: 8%;
+	color: #fff;
+}
+.port button{
+	border: none;
+	border-radius: 25px;
+	padding: 6px 15px;
+	background: none;
+	border: 1px solid #fff;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	margin-top: 25%;
+}
+.port h3{
+	font-size: 25px;
+}
+.pot{
+	display: flex;
+}
+.pot p{
+	margin-left: 7px;
+	font-size: 10px;
+	margin-top: 20px;
+}
+.rah{
+	display: flex;
+}
+.jothef{
+	padding-left: 25px;
+}
+.pinks{
+	background: url(../img/Rectangle13.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.pink{
+	padding-top: 45px;
+	margin-left: 85px;
+	padding-bottom: 45px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+}
+.pink p{
+	font-size: 13px;
+}
+.pink a{
+	color: #fff;
+	font-size: 13px;
+}
+.samet{
+	background: url(../img/Rectangle3.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.samet p{
+	padding-top: 35px;
+	margin-left: 85px;
+	padding-bottom: 35px;
+	margin-bottom: 0;
+	color: #fff;
+}
